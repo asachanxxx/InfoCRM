@@ -1,0 +1,10 @@
+D:\Working\InfoCRM\InfoCrm.Tools\bin\Debug\InfoCrm.Tools.dll
+D:\Working\InfoCRM\InfoCrm.Tools\bin\Debug\InfoCrm.Tools.pdb
+D:\Working\InfoCRM\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.csprojResolveAssemblyReference.cache
+D:\Working\InfoCRM\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.dll
+D:\Working\InfoCRM\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.pdb
+D:\Working\Projects\InfoCRM_old\InfoCrm.Tools\bin\Debug\InfoCrm.Tools.dll
+D:\Working\Projects\InfoCRM_old\InfoCrm.Tools\bin\Debug\InfoCrm.Tools.pdb
+D:\Working\Projects\InfoCRM_old\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.csprojResolveAssemblyReference.cache
+D:\Working\Projects\InfoCRM_old\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.dll
+D:\Working\Projects\InfoCRM_old\InfoCrm.Tools\obj\Debug\InfoCrm.Tools.pdb

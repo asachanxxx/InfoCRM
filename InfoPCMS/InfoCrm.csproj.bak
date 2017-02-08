@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B4A7162D-65ED-4E23-AD7F-C111D76C0D2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InfoPCMS</RootNamespace>
+    <AssemblyName>InfoPCMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>InfoPCMS.InfoPCMS</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v12.1.Core, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v12.1.Core, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.1.Core, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v12.1.Core, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v12.1.UI, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v12.1, Version=12.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComboBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\XtraReport1.cs" />
+    <Compile Include="Report\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\ActionTypeService.cs" />
+    <Compile Include="Services\AutoGenerationService.cs" />
+    <Compile Include="Services\CompanyService.cs" />
+    <Compile Include="Services\ConfigurationService.cs" />
+    <Compile Include="Services\ConversionService.cs" />
+    <Compile Include="InfoPCMS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Copy of InvoiceAgingService.cs" />
+    <Compile Include="Services\Copy of InvoiceService.cs" />
+    <Compile Include="Services\CustomerService.cs" />
+    <Compile Include="Services\DatabaseService.cs" />
+    <Compile Include="Services\EmailServices.cs" />
+    <Compile Include="Services\EmployeeService.cs" />
+    <Compile Include="Services\InquiryService.cs" />
+    <Compile Include="Services\InquiryTypeService.cs" />
+    <Compile Include="Services\LicenseService.cs" />
+    <Compile Include="Services\LocationService.cs" />
+    <Compile Include="Services\LoginService.cs" />
+    <Compile Include="Services\MessageService.cs" />
+    <Compile Include="Services\SurveyService.cs" />
+    <Compile Include="Services\UserService.cs" />
+    <Compile Include="Views\frmActionType.cs" />
+    <Compile Include="Views\frmActionType.Designer.cs">
+      <DependentUpon>frmActionType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmApproval.cs" />
+    <Compile Include="Views\frmApproval.Designer.cs">
+      <DependentUpon>frmApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmChangeCompDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmChangeCompDate.Designer.cs">
+      <DependentUpon>frmChangeCompDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmChangeInqDetails.cs" />
+    <Compile Include="Views\frmChangeInqDetails.Designer.cs">
+      <DependentUpon>frmChangeInqDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmChangeSchedule.cs" />
+    <Compile Include="Views\frmChangeSchedule.Designer.cs">
+      <DependentUpon>frmChangeSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmCustomer.cs" />
+    <Compile Include="Views\frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmEmployee.cs" />
+    <Compile Include="Views\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmEscalation.cs" />
+    <Compile Include="Views\FrmEscalation.Designer.cs">
+      <DependentUpon>FrmEscalation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmGenerators.cs" />
+    <Compile Include="Views\FrmGenerators.Designer.cs">
+      <DependentUpon>FrmGenerators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmHome.cs" />
+    <Compile Include="Views\frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmInqNewCstomer.cs" />
+    <Compile Include="Views\FrmInqNewCstomer.Designer.cs">
+      <DependentUpon>FrmInqNewCstomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmInquiryManagement.cs" />
+    <Compile Include="Views\frmInquiryManagement.Designer.cs">
+      <DependentUpon>frmInquiryManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmInquiryType.cs" />
+    <Compile Include="Views\frmInquiryType.Designer.cs">
+      <DependentUpon>frmInquiryType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmJobServices.cs" />
+    <Compile Include="Views\frmJobServices.Designer.cs">
+      <DependentUpon>frmJobServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmKeyGen.cs" />
+    <Compile Include="Views\frmKeyGen.Designer.cs">
+      <DependentUpon>frmKeyGen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmLogin.cs" />
+    <Compile Include="Views\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmMainDashBoard.cs" />
+    <Compile Include="Views\FrmMainDashBoard.Designer.cs">
+      <DependentUpon>FrmMainDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmMyTask.cs" />
+    <Compile Include="Views\FrmMyTask.Designer.cs">
+      <DependentUpon>FrmMyTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmReportViewer.cs" />
+    <Compile Include="Views\frmReportViewer.designer.cs">
+      <DependentUpon>frmReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmServiceAgreenment.cs" />
+    <Compile Include="Views\FrmServiceAgreenment.Designer.cs">
+      <DependentUpon>FrmServiceAgreenment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmUser.cs" />
+    <Compile Include="Views\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmViewJobSheet.cs" />
+    <Compile Include="Views\frmViewJobSheet.Designer.cs">
+      <DependentUpon>frmViewJobSheet.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\frmActionType.resx">
+      <DependentUpon>frmActionType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmApproval.resx">
+      <DependentUpon>frmApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmChangeCompDate.resx">
+      <DependentUpon>frmChangeCompDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmChangeInqDetails.resx">
+      <DependentUpon>frmChangeInqDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmChangeSchedule.resx">
+      <DependentUpon>frmChangeSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmEscalation.resx">
+      <DependentUpon>FrmEscalation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmGenerators.resx">
+      <DependentUpon>FrmGenerators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmInqNewCstomer.resx">
+      <DependentUpon>FrmInqNewCstomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmInquiryManagement.resx">
+      <DependentUpon>frmInquiryManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmInquiryType.resx">
+      <DependentUpon>frmInquiryType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmJobServices.resx">
+      <DependentUpon>frmJobServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmKeyGen.resx">
+      <DependentUpon>frmKeyGen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmMainDashBoard.resx">
+      <DependentUpon>FrmMainDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmMyTask.resx">
+      <DependentUpon>FrmMyTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmReportViewer.resx">
+      <DependentUpon>frmReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmServiceAgreenment.resx">
+      <DependentUpon>FrmServiceAgreenment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmViewJobSheet.resx">
+      <DependentUpon>frmViewJobSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\1.png" />
+    <Content Include="Images\2.png" />
+    <Content Include="Images\3.png" />
+    <Content Include="Images\31.png" />
+    <Content Include="Images\add.png" />
+    <Content Include="Images\add_icon.png" />
+    <Content Include="Images\agt_print.png" />
+    <Content Include="Images\BackCustomer.jpg" />
+    <Content Include="Images\backHome.jpg" />
+    <Content Include="Images\BackLogOut.jpg" />
+    <Content Include="Images\BackSwitchUser.jpg" />
+    <Content Include="Images\bg33.jpg" />
+    <Content Include="Images\bg33ash.jpg" />
+    <Content Include="Images\bg33_2.jpg" />
+    <Content Include="Images\briefcase_.png" />
+    <Content Include="Images\cancel.png" />
+    <Content Include="Images\cash_single_add.png" />
+    <Content Include="Images\chart.png" />
+    <Content Include="Images\cleanup.gif" />
+    <Content Include="Images\Close-2-icon %281%29.png" />
+    <Content Include="Images\Close-2-icon.png" />
+    <Content Include="Images\Comsumer-Login-BG.jpg" />
+    <Content Include="Images\Comsumer-Login-Homepage.jpg" />
+    <Content Include="Images\contracts.png" />
+    <Content Include="Images\Copy of 31.png" />
+    <Content Include="Images\Credit Note.png" />
+    <Content Include="Images\cross_icon.jpg" />
+    <Content Include="Images\cube.png" />
+    <Content Include="Images\currency_dollar.png" />
+    <Content Include="Images\current_work.png" />
+    <Content Include="Images\customer.png" />
+    <Content Include="Images\customerMaster3.jpg" />
+    <Content Include="Images\dashboard.png" />
+    <Content Include="Images\Data-Database-Backup-icon.png" />
+    <Content Include="Images\dialog_cancel.png" />
+    <Content Include="Images\Employee Security Risk.jpg" />
+    <Content Include="Images\employer.png" />
+    <Content Include="Images\employer1.png" />
+    <Content Include="Images\exchange01.png" />
+    <Content Include="Images\Forward.ico" />
+    <Content Include="Images\Forward_2.ico" />
+    <Content Include="Images\GRN Return.png" />
+    <Content Include="Images\grn.png" />
+    <Content Include="Images\Home11.jpg" />
+    <Content Include="Images\icon-updates_.png" />
+    <Content Include="Images\info %281%29.png" />
+    <Content Include="Images\info %282%29.png" />
+    <Content Include="Images\Infocraft Logo1.png" />
+    <Content Include="Images\info_pcms.png" />
+    <Content Include="Images\inf_pcms.png" />
+    <Content Include="Images\inquiry_management.png" />
+    <Content Include="Images\Inter Location Transfer.png" />
+    <Content Include="Images\inventory.png" />
+    <Content Include="Images\inventory_reports.png" />
+    <Content Include="Images\invoice.png" />
+    <Content Include="Images\invoice_icon.png" />
+    <Content Include="Images\items.png" />
+    <Content Include="Images\jobcards.png" />
+    <Content Include="Images\job_completion.png" />
+    <Content Include="Images\list_add.png" />
+    <Content Include="Images\Location-Icon.jpg" />
+    <Content Include="Images\location_.png" />
+    <Content Include="Images\Location_Icon.png" />
+    <Content Include="Images\LogOut.jpg" />
+    <Content Include="Images\logo_icon.ico" />
+    <Content Include="Images\logo_icon.png" />
+    <Content Include="Images\management_reports.png" />
+    <Content Include="Images\Map-Marker.png" />
+    <Content Include="Images\masterfiles.png" />
+    <Content Include="Images\note_2.png" />
+    <Content Include="Images\operations.png" />
+    <Content Include="Images\organize.png" />
+    <Content Include="Images\package.png" />
+    <Content Include="Images\pay.png" />
+    <Content Include="Images\Payment2.png" />
+    <Content Include="Images\payments.png" />
+    <Content Include="Images\pencil_small.png" />
+    <Content Include="Images\pestcontrol1.jpg" />
+    <Content Include="Images\pestcontrol11.jpg" />
+    <Content Include="Images\pestcontrol12.jpg" />
+    <Content Include="Images\pestcontrol13.jpg" />
+    <Content Include="Images\pestcontrol2.jpg" />
+    <Content Include="Images\pestcontrol21.jpg" />
+    <Content Include="Images\pestcontrol22.jpg" />
+    <Content Include="Images\pestcontrol3.jpg" />
+    <Content Include="Images\pestcontrol31.jpg" />
+    <Content Include="Images\pestcontrol32.jpg" />
+    <Content Include="Images\pestcontrol33.jpg" />
+    <Content Include="Images\price-icon_.png" />
+    <Content Include="Images\Product Payment.png" />
+    <Content Include="Images\product_sales.png" />
+    <Content Include="Images\profile.png" />
+    <Content Include="Images\Promobg.jpg" />
+    <Content Include="Images\quotation.png" />
+    <Content Include="Images\repeat.png" />
+    <Content Include="Images\reports.png" />
+    <Content Include="Images\report_button.png" />
+    <Content Include="Images\return-goods.png" />
+    <Content Include="Images\return.png" />
+    <Content Include="Images\Ribbon_SaveAs_32x32.png" />
+    <Content Include="Images\search.gif" />
+    <Content Include="Images\Service Payment.png" />
+    <Content Include="Images\services.png" />
+    <Content Include="Images\shopping_cart_green.png" />
+    <Content Include="Images\supplier.png" />
+    <Content Include="Images\supplier1.png" />
+    <Content Include="Images\survey-icon_.png" />
+    <Content Include="Images\SwitchUser1.jpg" />
+    <Content Include="Images\tick.png" />
+    <Content Include="Images\transfer_left_right.png" />
+    <Content Include="Images\user-managment1.jpg" />
+    <Content Include="Images\user-managmentDark.jpg" />
+    <Content Include="Images\user.png" />
+    <Content Include="Images\user1.png" />
+    <Content Include="Images\user_reports.png" />
+    <Content Include="logo_icon.ico" />
+    <None Include="Resources\UserIcon2.png" />
+    <None Include="Resources\UserIcon.png" />
+    <None Include="Resources\Users_Home.png" />
+    <None Include="Resources\Add_Genarators.png" />
+    <None Include="Resources\Add_HO.png" />
+    <None Include="Resources\Action Type_Home.png" />
+    <None Include="Resources\AcceptJob.png" />
+    <None Include="Resources\AddUser.png" />
+    <None Include="Resources\Action.png" />
+    <None Include="Resources\AddEmployee.png" />
+    <None Include="Resources\1467273837_101_Warning.png" />
+    <Content Include="Resources\add_icon.png" />
+    <None Include="Resources\ViewDetails_2.png" />
+    <None Include="Resources\ViewDoc.png" />
+    <None Include="Resources\add_icon1.png" />
+    <None Include="Resources\Attach.png" />
+    <None Include="Resources\AttachFIle_2.png" />
+    <None Include="Resources\Agreement_Icon.png" />
+    <None Include="Resources\Add_Record.png" />
+    <None Include="Resources\Approve.png" />
+    <None Include="Resources\Approve_Icon.png" />
+    <None Include="Resources\Back.png" />
+    <Content Include="Resources\BackCustomer.jpg" />
+    <Content Include="Resources\backHome.jpg" />
+    <Content Include="Resources\BackLogOut.jpg" />
+    <Content Include="Resources\BackSwitchUser.jpg" />
+    <None Include="Resources\Checklist.png" />
+    <Content Include="Resources\cleanup.gif" />
+    <None Include="Resources\cleanup1.gif" />
+    <None Include="Resources\cleanup2.gif" />
+    <None Include="Resources\Complete.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Close1.png" />
+    <None Include="Resources\CopyGenDetails.png" />
+    <Content Include="Resources\customerMaster3.jpg" />
+    <None Include="Resources\Generator-details.png" />
+    <None Include="Resources\Forward.ico" />
+    <None Include="Resources\Forward_2.ico" />
+    <None Include="Resources\Generators_Home.png" />
+    <None Include="Resources\Employee_Home .png" />
+    <None Include="Resources\Customers_Home.png" />
+    <None Include="Resources\Forward1.ico" />
+    <Content Include="Resources\Home11.jpg" />
+    <Content Include="Resources\icon-updates_.png" />
+    <None Include="Resources\Inactive_Icon.png" />
+    <Content Include="Resources\Infocraft Logo1.png" />
+    <None Include="Resources\input_engineering.png" />
+    <None Include="Resources\Job_Services.png" />
+    <None Include="Resources\Inquiry_Mgt_Home.png" />
+    <None Include="Resources\Job_Services_Home.png" />
+    <None Include="Resources\Inquiry_type_Home.png" />
+    <None Include="Resources\inquiry.png" />
+    <None Include="Resources\Inspection.png" />
+    <Content Include="Resources\list_add.png" />
+    <None Include="Resources\list_add1.png" />
+    <None Include="Resources\Login Page.png" />
+    <None Include="Resources\Login Page %281%29.jpg" />
+    <None Include="Resources\Login Page.jpg" />
+    <None Include="Resources\Location.png" />
+    <None Include="Resources\Login_Icon.png" />
+    <None Include="Resources\Login Page Background.jpg" />
+    <None Include="Resources\Login Page Background_1.jpg" />
+    <None Include="Resources\Login_Page_Backgraound.jpg" />
+    <None Include="Resources\Login_Page_Backgraound_New.jpg" />
+    <Content Include="Resources\LogOut.jpg" />
+    <None Include="Resources\my-tasks.png" />
+    <None Include="Resources\OpenFile.png" />
+    <None Include="Resources\My Task_home.png" />
+    <None Include="Resources\Pending_Approval.png" />
+    <None Include="Resources\Pending_Approval_Icon.png" />
+    <None Include="Resources\Pending_Approval1.png" />
+    <None Include="Resources\MyTask.png" />
+    <Content Include="Resources\Ribbon_SaveAs_32x32.png" />
+    <None Include="Resources\service-agreements.png" />
+    <None Include="Resources\Ribbon_Save_32x32.png" />
+    <None Include="Resources\Ribbon_Save_32x321.png" />
+    <None Include="Resources\Schedule.png" />
+    <None Include="Resources\Srevice_Agreement_Home.png" />
+    <None Include="Resources\Suppliers_Home.png" />
+    <None Include="Resources\Save_Icon.png" />
+    <None Include="Resources\Supplier.png" />
+    <Content Include="Resources\SwitchUser1.jpg" />
+    <None Include="Resources\Untitled-1.png" />
+    <None Include="Resources\Untitled-2.png" />
+    <None Include="Resources\Untitled-4.png" />
+    <None Include="Resources\Untitled-41.png" />
+    <None Include="Resources\Untitled-42.png" />
+    <None Include="Resources\Untitled-warning2.png" />
+    <None Include="Resources\Update.png" />
+    <Content Include="Resources\user-managment1.jpg" />
+    <Content Include="Resources\user-managmentDark.jpg" />
+    <Content Include="Resources\user1.png" />
+    <None Include="Resources\cross_icon.jpg" />
+    <None Include="Resources\Employee Security Risk.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

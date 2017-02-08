@@ -1,0 +1,894 @@
+F:\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+F:\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+F:\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+F:\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+F:\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+F:\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+F:\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+F:\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+F:\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+F:\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+F:\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmtesy.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.XtraForm1.resources
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+F:\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmtesy.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.XtraForm1.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-09-01 2\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmtesy.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.XtraForm1.resources
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Sumith\Projects\Hayleys Power Engineering CRM\Release\2016-10-10\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmtesy.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.XtraForm1.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Sumith\Current Projects\Hayleys Power Engineering CRM\Current Editing\New folder\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.dll
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\itextsharp.xml
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\BIN\InfoCRMS\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\BIN\InfoCRMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\InfoCrm.Tools.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\InfoCrm.Tools.pdb
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Working\InfoCRM\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Working\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\InfoCrm.Tools.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\InfoCrm.Tools.pdb
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Working\IN\New folder\InfoCRM\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\Interop.AcroPDFLib.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoCrm.csproj.ResolveComReference.cache
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoCrm.csprojResolveAssemblyReference.cache
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmActionType.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmApproval.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeCompDate.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeInqDetails.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmChangeSchedule.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmEscalation.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmGenerators.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmInqNewCstomer.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryType.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobServices.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMyTask.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.FrmServiceAgreenment.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmUser.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewJobSheet.resources
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoCrm.csproj.GenerateResource.Cache
+D:\Working\Projects\InfoCRM_old\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\InfoCrm.Tools.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\itextsharp.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\itextsharp.pdfa.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\itextsharp.xtra.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\Newtonsoft.Json.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\InfoCrm.Tools.pdb
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\itextsharp.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\Newtonsoft.Json.xml
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Working\Projects\InfoCRM_old\InfoPCMS\bin\Debug\AxInterop.AcroPDFLib.dll

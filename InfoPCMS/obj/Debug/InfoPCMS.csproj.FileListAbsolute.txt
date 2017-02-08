@@ -1,0 +1,277 @@
+C:\Users\user\documents\visual studio 2010\Projects\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.csproj.GenerateResource.Cache
+D:\My Projects\APPLICATIONS\Agro-PestControl\Source\Rashad\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\ResolveAssemblyReference.cache
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\GenerateResource.read.1.tlog
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\GenerateResource.write.1.tlog
+F:\UDARA\Project\Current project\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.pdb
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.csprojResolveAssemblyReference.cache
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.csproj.GenerateResource.Cache
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\2015-03-31\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmBincard.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmContributionReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCreditNote.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmCustomer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmEmployee.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmGRNReturn.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmHome.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryManagement.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInquiryVsQuotation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInterLocationTransfer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoice.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmInvoiceReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCard.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobCostingReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmJobReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmKeyGen.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLocation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmLogin.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\HayleysPowerEngineeringCRM.View.FrmMainDashBoard.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPastQuotations.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPaymentReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmPayments.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductPayment.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProductSale.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmProformaReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmReportViewer.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesAgingReport.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSalesTurnover.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByItem.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmStockByLocation.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSupplier.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmSurvey.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmTest.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewCreditNote.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewILT.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewReturnGRN.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmViewSale.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.frmQuotationVsJob.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Views.XtraForm1.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.csproj.GenerateResource.Cache
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe.config
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\bin\Debug\InfoPCMS.pdb
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.Properties.Resources.resources
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe.licenses
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.exe
+F:\UDARA\Project\Current project\DotNetProject\InfoPCMS\InfoPCMS\obj\Debug\InfoPCMS.pdb

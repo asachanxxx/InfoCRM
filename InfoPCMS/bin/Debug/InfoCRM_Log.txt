@@ -1,0 +1,11 @@
+1/20/2017 11:08:34 AM  :   Error : Service not available, closing transmission channel. The server response was: 4.3.2 Service not available  and Inner EX : 
+1/20/2017 11:10:44 AM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : gamini.peiris@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/20/2017 11:10:48 AM  :   Error : Service not available, closing transmission channel. The server response was: 4.3.2 Service not available  and Inner EX : 
+1/20/2017 11:59:38 AM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/20/2017 11:59:40 AM  :   Error : Service not available, closing transmission channel. The server response was: 4.3.2 Service not available  and Inner EX : 
+1/20/2017 1:22:19 PM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/20/2017 1:56:43 PM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/20/2017 2:20:45 PM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/25/2017 9:57:19 PM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
+1/25/2017 10:03:29 PM  :   Error : Failure sending mail.  and Inner EX : Unable to connect to the remote server
+1/31/2017 11:22:37 AM  :   Email From : pe.crm@industrial.hayleys.com  and Email TO : lasantha.kariyawasam@industrial.hayleys.com Username : hisl.crm  and Password : apple@123
